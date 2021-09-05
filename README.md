@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Blue00FF
-- I am a recent Theoretical Physics graduate looking forward to applying my problem solving and statistics knowledge to coding
+- I am a recent Theoretical Physics graduate looking to apply my problem solving and statistics knowledge to coding
 - 👀 I’m interested in Data Analysis and Development in Python
 - 🌱 I’m currently learning to use Machine Learning for Data Analysis
 
