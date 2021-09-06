@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Blue00FF
+- 👋 Hi, I’m Fabrizio
 - I am a recent Theoretical Physics graduate looking to apply my problem solving and statistics knowledge to coding
 - 👀 I’m interested in Data Analysis and Development in Python
 - 🌱 I’m currently learning to use Machine Learning for Data Analysis
