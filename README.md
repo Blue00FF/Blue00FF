@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fabrizio
 - I am a recent Theoretical Physics graduate looking to apply my problem solving and statistics knowledge to coding
-- 👀 I’m interested in Data Analysis and Development in Python
-- 🌱 I’m currently learning to use Machine Learning for Data Analysis
+- 👀 I’m interested in Data Analysis and Software Development in Python
+- 🌱 I’m currently learning to use Machine Learning Methods for Data Analysis
 
 <!---
 Blue00FF/Blue00FF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
