@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fabrizio
 - I am a recent Theoretical Physics graduate looking to apply my problem solving, maths and statistics knowledge to coding
-- 👀 I’m interested in Data Analysis in Python and Java.
+- 👀 I’m interested in Data Analysis and Software Engineering in Python and Java.
 - 🌱 I’m currently creating some projects to enlarge my knowledge of Python packages, both in Data Analysis and Software Architecture.
 
 Languages : ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white), ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white), ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white), ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
