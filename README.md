@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fabrizio
-- I am a Theoretical Physics graduate who enjoys applying my problem solving, maths and statistics knowledge to data analysis and engineering.
+- I am a Theoretical Physics graduate who enjoys applying my problem solving, maths and statistics knowledge to data analysis and engineering in my day to day job.
 - I’m interested in Data Analysis and Software Engineering in Python.
 - I’m currently creating some projects to enlarge my knowledge of Python packages, both in Data Analysis and Software Engineering.
 - I like to think about data analysis and engineering as my job and software engineering as my hobby. There's a lot of the language that we don't get to touch while only dealing with data.
