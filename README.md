@@ -9,10 +9,10 @@ I am a Theoretical Physics graduate who enjoys applying my problem-solving, math
 ## Current Focus
 
 I’m currently working on various projects to expand my knowledge in:
-- **AI and Machine Learning**: Exploring different AI models and their applications
+- **AI and Machine Learning**: Deep diving into Transformers, TensorFlow, and PyTorch
 - **DevOps and Kubernetes**: Learning to build and manage containerized environments
 - **Home Lab Projects**: Working with TrueNAS, Raspberry Pi, and other hardware
-- **Data Analysis**: Enhancing my skills with Python libraries like Torch, Tensorflow and Transformers
+- **Natural Language Processing**: Exploring state-of-the-art models and their applications
 
 ## Skills and Technologies
 
@@ -23,12 +23,11 @@ I’m currently working on various projects to expand my knowledge in:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-### Data Analysis and Machine Learning
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### Machine Learning and AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-%23FFD700.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 ### DevOps and Infrastructure
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -38,7 +37,7 @@ I’m currently working on various projects to expand my knowledge in:
 
 ## Projects
 
-[Coming soon!] - I'm actively working on several projects that showcase my skills in AI, data analysis, and infrastructure management. Stay tuned for updates!
+[Coming soon!] - I'm actively working on several projects that showcase my skills in AI, machine learning, and infrastructure management. Stay tuned for updates!
 
 ## Contact
 
