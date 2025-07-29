@@ -69,7 +69,7 @@ I’m currently working on various projects to expand my knowledge in:
 
 ## Background
 
-I have experience with Java and Scala from my early career training, though I haven't used them recently as my focus has shifted to Python and machine learning technologies.
+While I have experience with Java and Scala from my early career training, my focus has shifted to Python and machine learning technologies, particularly in AI, NLP, and infrastructure management.
 
 ## Projects
 
