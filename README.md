@@ -35,6 +35,10 @@ I’m currently working on various projects to expand my knowledge in:
 ![TrueNAS](https://img.shields.io/badge/TrueNAS-%23007880.svg?style=for-the-badge&logo=trueNAS&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-%23A22846.svg?style=for-the-badge&logo=raspberry-pi&logoColor=white)
 
+## Background
+
+I have experience with Java and Scala from my early career training, though I haven't used them recently as my focus has shifted to Python and machine learning technologies.
+
 ## Projects
 
 [Coming soon!] - I'm actively working on several projects that showcase my skills in AI, machine learning, and infrastructure management. Stay tuned for updates!
